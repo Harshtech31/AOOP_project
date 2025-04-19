@@ -1,6 +1,6 @@
 # Finsavy - Financial Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Finsavy is a comprehensive financial management application built with React and Vite.
 
 Currently, two official plugins are available:
 
